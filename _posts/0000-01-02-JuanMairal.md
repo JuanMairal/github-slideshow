@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+We stand before my achievements, not yours.
 Use the left arrow to go back!
